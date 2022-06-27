@@ -1,2 +1,2 @@
-# Projeto para o curso de SOLID com CSharp
-
+# Curso Alura SOLID com C#
+Princípios da programação orientada a objetos
